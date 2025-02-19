@@ -53,4 +53,4 @@ nba-predictions/
 
 
 ## Autor
-Projekt stworzony przez [Twoje Imię].  
+Projekt stworzony przez Antoninę Frąckowiak.  
