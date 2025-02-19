@@ -43,8 +43,10 @@ Modele zostały wytrenowane na danych z lat 1998–2023, a ich skuteczność by�
 
 ### Struktura projektu
 ```
-nba-predictions/
-│── models/                  # Zapisane modele klasyfikacyjne
+All_NBA_Team/                 
+│── models/                  # Folder z zapisanymi modelami
+│   │── clas_model.pkl    # Model do predykcji All-NBA
+│   │── clas_r_model.pkl # Model do predykcji All-Rookie            
 │── nba_predictions.py       # Główny plik skryptu do predykcji
 │── requirements.txt         # Lista wymaganych bibliotek
 │── README.md                # Dokumentacja projektu
@@ -53,4 +55,4 @@ nba-predictions/
 
 
 ## Autor
-Projekt stworzony przez Antoninę Frąckowiak.  
+Antonina Frąckowiak.  
